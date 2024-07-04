@@ -22,23 +22,3 @@ I'm a Quantitative and AI Enthusiast passionate about applying advanced mathemat
 ## 📈 GitHub Stats
 ![Jakes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodoh&show_icons=true)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kodoh)
-
-## 📚 Featured Projects
-### 🧠 Deep Q learning Approach to solving TSP
-A Jupyter notebook tutorial for using reinforcement learning to solve instances of the travelling salesman problem.
-
-- **Tech Stack**: Python, PyTorch, Pandas, NumPy
-- **Repository**: [DQ Learning](https://github.com/johndoe/ai-trading-bot](https://github.com/Kodoh/DeepQ_learning))
-
-### 📈 Order book with FPGA accelerator
-Currently building an order book for real-time high-frequency trading powered by virtual FPGAs
-- **Tech Stack**: C++, Assembly, VHDL
-- **Repository**: [Order Book](https://github.com/Kodoh/Orderbook)
-
-### 💹 Market Prediction using Deep Learning
-A project aimed at predicting stock prices using deep learning models.
-
-- **Tech Stack**: Python, TensorFlow, Pandas, NumPy, Scikit Learn, KDB+
-- **Repository**: [Market Prediction DL](https://github.com/Kodoh/CWD12_F132339)
