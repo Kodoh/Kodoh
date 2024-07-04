@@ -1,6 +1,4 @@
-# Hi there, I'm John Doe 👋
-
-![GitHub Profile Banner](https://i.imgur.com/dG6U5n5.png)
+# Hi there, I'm Jake 👋
 
 I'm a Quantitative Analyst and AI Enthusiast passionate about applying advanced mathematical models and machine learning algorithms to solve complex financial problems.
 
@@ -24,13 +22,13 @@ I'm a Quantitative Analyst and AI Enthusiast passionate about applying advanced 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ## 📈 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true)
+![Jakes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodoh&show_icons=true)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=johndoe)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kodoh)
 
 ## 📊 GitHub Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=johndoe)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kodoh)
 
 ## 📚 Featured Projects
 ### 🧠 AI-Powered Trading Bot
