@@ -5,13 +5,13 @@ I'm a Quantitative and AI Enthusiast passionate about applying advanced mathemat
 - 🔭 I’m currently working on developing trading algorithms using machine learning
 - 🌱 I’m currently learning reinforcement learning and its applications in finance
 - 💬 Ask me about quantitative finance, AI, and data science
-- 📫 How to reach me: [email@example.com](mailto:jake2anderson9@gmail.com)
+- 📫 How to reach me: [jake2anderson9@gmail.com](mailto:jake2anderson9@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing chess and analyzing game strategies
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-R-000?&logo=cpp)
+![C++](https://img.shields.io/badge/-cpp-000?&logo=cpp)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)
