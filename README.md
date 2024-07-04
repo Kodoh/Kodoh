@@ -1,6 +1,6 @@
 # Hi there, I'm Jake 👋
 
-![Banner](https://example.com/banner.png)
+![GitHub Profile Banner](https://i.imgur.com/dG6U5n5.png)
 
 I'm a Full Stack Developer passionate about building scalable web applications and working with new technologies.
 
