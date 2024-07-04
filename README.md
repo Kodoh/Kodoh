@@ -1,6 +1,6 @@
 # Hi there, I'm Jake 👋
 
-I'm a Quantitative and AI Enthusiast passionate about applying advanced mathematical models and machine learning algorithms to solve complex financial problems.
+I'm a Quantitative Finance and AI Enthusiast passionate about applying advanced mathematical models and machine learning algorithms to solve complex financial problems.
 
 - 🔭 I’m currently working on developing trading algorithms using machine learning
 - 🌱 I’m currently learning reinforcement learning and its applications in finance
