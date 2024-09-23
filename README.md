@@ -2,12 +2,6 @@
 
 I'm a Quantitative Finance and AI Enthusiast passionate about applying advanced mathematical models and machine learning algorithms to solve complex financial problems.
 
-- 🔭 I’m currently working on developing trading algorithms using machine learning
-- 🌱 I’m currently learning reinforcement learning and its applications in finance
-- 💬 Ask me about quantitative finance, AI, and data science
-- 📫 How to reach me: [Jake2anderson9@gmail.com](mailto:jake2anderson9@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing chess and analyzing game strategies
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
