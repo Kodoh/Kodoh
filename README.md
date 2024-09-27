@@ -1,7 +1,5 @@
 # Hi there, I'm Jake 👋
 
-I'm a Quantitative Finance and AI Enthusiast passionate about applying advanced mathematical models and machine learning algorithms to solve complex financial problems.
-
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
